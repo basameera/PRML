@@ -1,3 +1,5 @@
+"""Visualization of Normal Distribution in different forms
+"""
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.stats import norm
